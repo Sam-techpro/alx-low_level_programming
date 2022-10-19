@@ -1,1 +1,1 @@
-0x00. C - Hello, World readme
+ script that compiles a C file but does not link
