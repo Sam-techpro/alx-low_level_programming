@@ -1,1 +1,1 @@
-script that compiles a C file but does not link
+ this is my first C programming ptoject 
